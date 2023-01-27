@@ -80,6 +80,7 @@ article>h1,h2{
     color: var(--cor4);
 }
 article>h2{
+    padding: 5px;
     background-image: linear-gradient(to right, var(--cor2), transparent);
 }
 picture>img{
@@ -91,12 +92,13 @@ article>img{
     margin: auto;
 }
 .video{
-    background-color: var(--cor6);
+    background-color: var(--cor6); 
+    position: relative;
     margin-left: -20px;
     margin-right:-20px;
     padding: 20px;
     padding-bottom:70% ;
-    position: relative;
+   
 }
 .video>video{
    width: 95%;
