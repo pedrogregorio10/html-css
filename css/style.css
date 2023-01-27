@@ -32,6 +32,8 @@ header{
 }
 header>h1{
     padding-bottom: 20px;
+    max-width: 500px;
+    margin: auto;
   
 }
 header>p{
