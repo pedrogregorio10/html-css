@@ -26,13 +26,13 @@ header{
     text-align: center;
     color:white;
     padding: 20px;
-    min-height: 150px;
+    min-height: 100px;
    
 
 }
 header>h1{
-    margin-bottom: 10px;
-    font-size: 3em;
+    padding-bottom: 20px;
+  
 }
 header>p{
     font-size: 1.2em;
